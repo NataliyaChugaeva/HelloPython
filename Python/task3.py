@@ -4,7 +4,6 @@
 #- A (7,-5); B (1,-1) -> 7,21
 
 
-from xml.dom import xmlbuilder
 
 
 print('Введите координаты точки A: ')
