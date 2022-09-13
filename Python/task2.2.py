@@ -3,9 +3,6 @@
 #- пусть N = 4, тогда [ 1, 2, 6, 24 ] (1, 1*2, 1*2*3, 1*2*3*4)
 
 
-from math import factorial
-
-
 number = int(input('Введите положительное число: '))
 
 factorial = 1
