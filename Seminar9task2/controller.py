@@ -1,10 +1,7 @@
 from model import (division, multiplication, subtraction, addition)
 from view import (get_value, show_menu, view_data)
 
-# def button_click():
-#     value_a, value_b = get_value()
-#     result = addition(value_a, value_b)
-#     view_data(result, "result")
+
 
 def operations():
     
